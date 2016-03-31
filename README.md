@@ -1,2 +1,3 @@
 # snap
-Program Snap (Scratch + Higher Order Functions)
+
+Program [Snap](http://snap.berkeley.edu/) (Scratch + Higher Order Functions)
