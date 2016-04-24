@@ -5,7 +5,9 @@ overview:
       name:
         en-en: Snap!
         de-de: Snap!
-      text: 
+    it-it: Snap!
+      text:
         en-en: Create your own computer games, movies and stories using Snap!.
         de-de: Erstelle deine eigenen Spiele, Filme und Geschichten mit Snap!.
+    it-it: Crea videogame, animazioni e storie con Snap!
       module: snap
